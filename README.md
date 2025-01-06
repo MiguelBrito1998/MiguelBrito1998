@@ -5,9 +5,7 @@
 ## Dynamic Quotes 📜:
 True growth lies in learning how to learn. The learning curve is not an obstacle but the tool that takes us further.
 
-<b>"Learn to build.  
-Learn to sell.  
-If you can do both, you will be unstoppable."</b>  
+<b>"Learn to build. Learn to sell. If you can do both, you will be unstoppable."</b>  
 <b>— Naval Ravikant</b>
 
 <p>
