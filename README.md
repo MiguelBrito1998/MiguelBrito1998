@@ -12,12 +12,13 @@ True growth lies in learning how to learn. The learning curve is not an obstacle
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
 <p>
-  
-- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
-- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
-- Looking for opportunities and collaborations in the field of data science. ✅
-- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Planning to Blog in the near future. 📝
+  <strong>Exploring and Advancing in Machine Learning and Deep Learning</strong>
+    
+-Currently working on my own projects in Machine Learning and Deep Learning. 🏙️
+-Passionate about applying mathematical foundations to real-world problems. 💡
+-Experienced in teaching Calculus and continuously expanding my knowledge through self-learning. ✅
+-Looking for opportunities to collaborate on innovative projects. 💪
+-Sharing insights and learning through personal and professional growth. 📝
 </p>
 
 <div align="center">
