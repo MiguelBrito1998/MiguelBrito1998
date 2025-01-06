@@ -9,15 +9,15 @@ True growth lies in learning how to learn. The learning curve is not an obstacle
 <b>"Learn to build. Learn to sell. If you can do both, you will be unstoppable." </b>
 <b>— Naval Ravikant</b>
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
+
 
 <p>
 <strong>Exploring and Advancing in Machine Learning and Deep Learning</strong>
-<p>-Currently working on my own projects in Machine Learning and Deep Learning. 🏙️</p>
-<p>-Passionate about applying mathematical foundations to real-world problems. 💡</p>
-<p>-Experienced in teaching Calculus and continuously expanding my knowledge through self-learning. ✅</p>
-<p>-Looking for opportunities to collaborate on innovative projects. 💪</p>
-<p>-Sharing insights and learning through personal and professional growth. 📝</p>
+<b>-Currently working on my own projects in Machine Learning and Deep Learning. 🏙️</b>
+<b>-Passionate about applying mathematical foundations to real-world problems. 💡</b>
+<b>-Experienced in teaching Calculus and continuously expanding my knowledge through self-learning. ✅</b>
+<b>-Looking for opportunities to collaborate on innovative projects. 💪</b>
+<b>-Sharing insights and learning through personal and professional growth. 📝</b>
 </p>
 
 <div align="center">
