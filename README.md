@@ -3,7 +3,7 @@
 <h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
 ## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
+True growth lies in learning how to learn. The learning curve is not an obstacle but the tool that takes us further.
 
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
