@@ -12,13 +12,12 @@ True growth lies in learning how to learn. The learning curve is not an obstacle
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
 <p>
-  <strong>Exploring and Advancing in Machine Learning and Deep Learning</strong>
-    
--Currently working on my own projects in Machine Learning and Deep Learning. 🏙️
--Passionate about applying mathematical foundations to real-world problems. 💡
--Experienced in teaching Calculus and continuously expanding my knowledge through self-learning. ✅
--Looking for opportunities to collaborate on innovative projects. 💪
--Sharing insights and learning through personal and professional growth. 📝
+<strong>Exploring and Advancing in Machine Learning and Deep Learning</strong>
+<p>-Currently working on my own projects in Machine Learning and Deep Learning. 🏙️</p>
+<p>-Passionate about applying mathematical foundations to real-world problems. 💡</p>
+<p>-Experienced in teaching Calculus and continuously expanding my knowledge through self-learning. ✅</p>
+<p>-Looking for opportunities to collaborate on innovative projects. 💪</p>
+<p>-Sharing insights and learning through personal and professional growth. 📝</p>
 </p>
 
 <div align="center">
