@@ -8,8 +8,7 @@ True growth lies in learning how to learn. The learning curve is not an obstacle
 <br>
 <b>"Learn to build. Learn to sell. If you can do both, you will be unstoppable." </b>
 <b>— Naval Ravikant</b>
-
-
+</br>
 
 <p>
 <strong>Exploring and Advancing in Machine Learning and Deep Learning</strong>
