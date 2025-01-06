@@ -6,7 +6,8 @@
 True growth lies in learning how to learn. The learning curve is not an obstacle but the tool that takes us further.
 
 <br>
-<b> "Sleep😴 To Program Your Subconscious Space"</b>
+<b>"Learn to build. Learn to sell. If you can do both, you will be unstoppable." </b>
+<b>— Naval Ravikant</b>
 
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
